@@ -102,4 +102,3 @@ if __name__ == "__main__":
     manager = TaskManager(file_storage)
     manager.add_task("Review SOLID Principles", "2024-08-10", priority="high")
     manager.list_tasks()
-    print("Finished")
